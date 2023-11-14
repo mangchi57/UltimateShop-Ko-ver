@@ -8,3 +8,8 @@
 디스코드 : 짱구#walletfairy
 
 깃헙 : https://github.com/mangchi57?tab=repositories
+
+
+# 공지
+
+상점설정은 개인이 따로 하셔야합니다. 파일안에있는 상점등은 기본구성일뿐입니다.
